@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# A single Parenthesis Matching script
+# A simple Parenthesis Matching script
 
 p_match_o = ('{', '[', '(')
 
